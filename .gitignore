@@ -1,0 +1,20 @@
+*.npy
+*.wav
+*.png
+*.mp4
+*.csv
+*.raw
+*.zip
+*.pyc
+*.pyd
+*.lib
+*.obj
+*.exp
+copilot/*
+gr_erg/legacy/phylactery_cpp.egg-info/dependency_links.txt
+gr_erg/legacy/phylactery_cpp.egg-info/PKG-INFO
+gr_erg/legacy/phylactery_cpp.egg-info/SOURCES.txt
+gr_erg/legacy/phylactery_cpp.egg-info/top_level.txt
+!p_c_erad_1_to_5.mp4
+# allow coefficient-loop outputs
+!data/coeff_loops/
